@@ -1,3 +1,4 @@
+# built with elixir 0.11.1
 
 Enum.each 1..100, fn x ->
 	cond do
